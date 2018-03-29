@@ -1,5 +1,4 @@
 % Peak fire month file (map); calculation and netcdf output
-% 7/16/2012
 
 typetag = {'wildland';'agriculture';'otherpres'};
 yeartag = {'2001';'2002';'2003';'2004';'2005';'2006';'2007';'2008';...
